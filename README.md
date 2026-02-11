@@ -1,6 +1,6 @@
 # TabularQA - A question answering system for tabular data
 
-TabularQA is a natural language question-answering system for tabular data, integrating Streamlit with the ChatGPT API. 
+TabularQA is a natural language question-answering system for tabular data, integrating Streamlit with the GPT-3.5-turbo LLM. 
 
 It allows users to upload CSV or database files and ask questions in natural language. Beyond basic data queries, TabularQA enhances the experience by enabling visualization queries, producing meaningful plots, graphs, and charts. 
 
